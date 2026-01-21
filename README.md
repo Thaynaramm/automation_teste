@@ -34,19 +34,6 @@ A automação cobre os seguintes elementos interativos:
 * Java JDK (11 ou superior) instalado.
 * Maven configurado no sistema.
 
-### Execução Local
-
-1. Clone o repositório:
-```bash
-git clone https://github.com/Thaynaramm/automation_teste.git
-
-2. Navegue até a pasta do projeto:
-```bash
-cd TesteAutomatizados
-3. Execute os testes via Maven:
-```bash
-mvn clean test
-
 ## ⛓️ Integração com CI/CD (Jenkins)
 
 Como parte da estratégia de **Quality Engineering**, este projeto está preparado para ser executado no **Jenkins**, permitindo:
